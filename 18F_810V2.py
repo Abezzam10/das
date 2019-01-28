@@ -2,7 +2,7 @@
 
 
 from prettytable import PrettyTable         # importing prettytable
-from HW08_Zhonghua_Bao import file_reader                  # from my file reader importing my file reader
+from Abezzam10 import file_reader                  # from my file reader importing my file reader
 import os
 
 from collections import defaultdict     
